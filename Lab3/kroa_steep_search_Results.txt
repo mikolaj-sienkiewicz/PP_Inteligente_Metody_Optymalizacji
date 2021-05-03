@@ -1,0 +1,1 @@
+steep_search_LM Switch- <function change_edges at 0x7fab6939a7b8> Dataset- kroa; time_mean:135.45464809417726,  time_min:94.66594958305359, time_max:184.50458550453186, min:37649.700443934096, max:48943.4428944301, mean:41617.00084190144
